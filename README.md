@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou Leonardo Sousa
+# Olá 👋, Eu sou Leonardo de Sousa
 
 Bem-vindo ao meu perfil! 👨‍💻 Aqui, estou iniciando minha jornada como desenvolvedor Front-end, buscando sempre entregar soluções criativas e performáticas. 🚀💻
 
