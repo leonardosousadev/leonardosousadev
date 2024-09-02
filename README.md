@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp
-[GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000)&nbsp;
 
 
