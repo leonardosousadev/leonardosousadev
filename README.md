@@ -6,7 +6,8 @@
 
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
-
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
@@ -21,6 +22,7 @@
 
 
 
+## 🛠 &nbsp;Tecnologias e Ferramentas
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
