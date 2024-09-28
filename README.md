@@ -1,8 +1,8 @@
 # Olá 👋, Eu sou Leonardo de Sousa
 
  Desenvolvedor Front-end com foco em ReactJS e React Native.
-
- em busca de novas oportuidades no mercado de trabalho
+"Como desenvolvedor front-end, posso estilizar e otimizar o seu projeto de maneira eficiente. Tenho amplo conhecimento em resolução de problemas, testes de qualidade (QA) e na identificação e correção de bugs. Possuo uma sólida experiência em bibliotecas e frameworks JavaScript, incluindo Node.js e React. Estou pronto para contribuir ativamente no desenvolvimento do seu projeto."
+ 
 
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
